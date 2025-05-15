@@ -8,12 +8,12 @@ tavily-python
 python-dotenv
 google-generativeai
 langchain-google-genai
-langchain-groq
+#langchain-groq
 langchain-nomic
 langchain-text-splitters
 langchain_mistralai
 wikipedia
 langchain_huggingface
-google-search-results
-faiss-cpu
-sentence_transformers
+#google-search-results
+#faiss-cpu
+#sentence_transformers
